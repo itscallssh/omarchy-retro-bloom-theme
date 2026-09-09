@@ -7,7 +7,7 @@ A warm, retro Gruvbox-inspired dark theme for [Omarchy](https://omarchy.org), bu
 ## Install
 
 ```
-omarchy theme install https://github.com/<your-username>/omarchy-retro-bloom-theme
+omarchy theme install https://github.com/heyssh/omarchy-retro-bloom-theme
 ```
 
 ## About
